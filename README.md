@@ -18,4 +18,4 @@ UniCarPrice is an end-to-end Machine Learning project that predicts the market v
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/yourusername/UniCarPrice.git](https://github.com/yourusername/UniCarPrice.git)
-   cd UniCarPrice
+   cd Automotive-Price-Intelligence
